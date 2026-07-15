@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Insights Dashboard
 
-An interactive, end-to-end Excel Sales Dashboard built using a cleaned and standardized transactional dataset of 300 orders. This project demonstrates database consistency, advanced formula implementation, data validation, dynamic pivot tables, and professional data visualization techniques.
+An interactive, end-to-end **Excel Sales Dashboard** built using a cleaned and standardized transactional dataset of 300 orders. This project demonstrates database consistency, advanced formula implementation, data validation, dynamic pivot tables, and professional data visualization techniques.
 
 ---
 
