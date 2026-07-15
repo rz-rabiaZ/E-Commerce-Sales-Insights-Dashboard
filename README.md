@@ -1,5 +1,5 @@
 # 📊 E-Commerce Sales Insights Dashboard
-
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 An interactive, end-to-end **Excel Sales Dashboard** built using a cleaned and standardized transactional dataset of 300 orders. This project demonstrates database consistency, advanced formula implementation, data validation, dynamic pivot tables, and professional data visualization techniques.
 
 ---
